@@ -1,8 +1,10 @@
 # compositeengine-web
 
-Website for Composite Engine
+Website for [Composite Engine](https://git.io/CompositeEngine)
 
 [compositeengine.com](https://compositeengine.com)
+
+Deployed to ZEIT.
 
 ## Production
 

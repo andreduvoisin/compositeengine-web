@@ -27,13 +27,13 @@ The domain that is outputted can be tested against.
 Aliases the last ZEIT Now domain created to `compositeengine.com`:
 
 ```
-now alias
+now --target production
 ```
 
 Therefore, the following will create a domain and alias `compositeengine.com` to that domain, thus deploying to production.
 
 ```
-now && now alias
+now && now --target production
 ```
 
 #### Other Commands

@@ -9,7 +9,7 @@ This is a separate ZEIT Now deploy from the main one.
 ```
 cd www
 now
-now alias
+now --target production
 ```
 
 ## References

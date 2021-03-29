@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "name": "compositeengine-web",
-  "alias": "compositeengine.com",
   "routes": [
     {
       "src": "/(.*)",
